@@ -1,0 +1,17 @@
+div {
+  width: 200px;
+  height: 200px;
+}
+
+.box1 {
+  background-image: url(../images/image10kb.jpeg);
+
+}
+
+.box2 {
+  background-image: url(../images/image176kb.jpeg);
+}
+
+.box3 {
+  background-image: url(../images/image50kb.jpeg);
+}
